@@ -1,0 +1,25 @@
+.link {
+    // border: 1px solid red;
+    // background-color: green;
+    display: inline-block;
+    transition: 0.5s all;
+    cursor: pointer;
+    &::after {
+        content: '';
+        display: block;
+        width: 0%;
+        height: 2px;
+        background-color: red;
+        transition: 0.5s all;
+    }
+    &:hover::after {
+       width: 100%;
+    
+    }
+}
+
+.rate {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

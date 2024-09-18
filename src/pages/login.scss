@@ -1,0 +1,15 @@
+.login {
+    padding: 100px 0;
+    position: relative;
+    height: 50vh;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    &__text {
+        font-size: 24px;
+        font-weight: 700;
+    }
+}
