@@ -7,7 +7,7 @@ as React, Hooks, Axios, Custom Hooks, Pagination, Filter, BrowserRouter, Route, 
 
 [![image](https://github.com/user-attachments/assets/376fbe0e-eb84-4bea-b863-8c3adbf49b85)](https://my-world-nine.vercel.app/)
 
-> Landig Page
+> SPA
 -------
 
 
